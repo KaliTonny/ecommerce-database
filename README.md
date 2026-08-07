@@ -70,8 +70,8 @@ Relaciona os pedidos aos produtos, armazenando a quantidade e o preço unitário
 
 ## Diagrama Entidade-Relacionamento
 
-![Diagrama Entidade-Relacionamento](<img width="1536" height="1024" alt="0d5b0e47-33ca-441d-a291-7b6b57ff2317" src="https://github.com/user-attachments/assets/3bfadf41-e779-4f12-aabc-65a8f2fc58fd" />
-)
+<img width="1536" height="1024" alt="0d5b0e47-33ca-441d-a291-7b6b57ff2317" src="https://github.com/user-attachments/assets/3bfadf41-e779-4f12-aabc-65a8f2fc58fd" />
+
 
 ## Equipe
 
