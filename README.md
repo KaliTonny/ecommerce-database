@@ -70,7 +70,9 @@ Relaciona os pedidos aos produtos, armazenando a quantidade e o preço unitário
 
 ## Diagrama Entidade-Relacionamento
 
-<img width="1536" height="1024" alt="0d5b0e47-33ca-441d-a291-7b6b57ff2317" src="https://github.com/user-attachments/assets/3bfadf41-e779-4f12-aabc-65a8f2fc58fd" />
+O diagrama abaixo representa a estrutura do banco de dados e os relacionamentos entre suas tabelas.
+
+<img width="1536" height="1024" alt="632993564-3bfadf41-e779-4f12-aabc-65a8f2fc58fd" src="https://github.com/user-attachments/assets/bcca1444-764e-4f34-9dab-bc238b3f90de" />
 
 
 ## Equipe
@@ -82,7 +84,7 @@ Relaciona os pedidos aos produtos, armazenando a quantidade e o preço unitário
 
 O projeto foi desenvolvido utilizando Git e GitHub para controle de versão.
 
-Foram realizados commits durante o desenvolvimento para registrar a criação e atualização dos arquivos do projeto.
+Durante o desenvolvimento, foram realizados commits para registrar a criação, organização e atualização dos arquivos do banco de dados.
 
 ## Execução
 
@@ -95,3 +97,13 @@ Os scripts SQL devem ser executados no MySQL Workbench seguindo a ordem:
 5. `procedures.sql`
 6. `triggers.sql`
 7. `consultas.sql`
+
+## Organização dos Scripts
+
+* `create_database.sql`: criação do banco de dados.
+* `create_tables.sql`: criação das tabelas e relacionamentos.
+* `inserts.sql`: inserção dos registros.
+* `consultas.sql`: consultas, atualizações e exclusões de registros.
+* `views.sql`: criação das views do banco.
+* `procedures.sql`: criação das procedures.
+* `triggers.sql`: criação dos triggers.
